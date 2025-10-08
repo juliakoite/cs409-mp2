@@ -1,7 +1,8 @@
 {
-  "name": "movie_finder",
+  "name": "movie-finder",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://juliakoite.github.io/cs409-mp2",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
